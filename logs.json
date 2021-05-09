@@ -1,0 +1,25 @@
+{
+    "total_packets": 0,
+    "total_dropped": 0,
+    "max_pps": 0,
+    "traffic":{
+        "1": 5,
+        "3": 3,
+        "4": 6,
+        "5": 3
+    },
+    "rules.json":{
+        "internal":{
+            "total_packets": 0,
+            "total_dropped": 0,
+            "1":0,
+            "2":0
+        },
+        "external":{
+            "total_packets": 0,
+            "total_dropped": 0
+        }
+    },
+    "icmp_floods": 0,
+    "icmp_dropped": 0
+}
